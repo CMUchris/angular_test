@@ -9,8 +9,8 @@ framework and a bunch of development and testing tools for instant web developme
 
 The seed app doesn't do much, just shows how to wire two controllers and views together.
 
-
-
+Also includes code from 'A Step-by-Step Guide to Your First AngularJS App'
+http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app
 
 
 ## Getting Started
